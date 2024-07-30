@@ -1,0 +1,21 @@
+.text-center{
+    text-align: center;
+}
+
+
+.add-user{
+    height: 200px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.display-user{
+    min-height: 200px;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.btn-danger{
+    background: red;
+    color: aliceblue;
+}
